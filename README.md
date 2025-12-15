@@ -150,8 +150,9 @@ If you use this dataset in your research, please ensure proper citation of the o
 
 <div align="center">
 
-**Made with ❤️ for Civil Engineering**
+**Made with ❤️ My First Deep Learning Project**
 
 ⭐ **If this project helped you, please give it a star!** ⭐
 
 </div>
+
