@@ -132,8 +132,9 @@ The low generalization gap indicates a well-balanced model that performs reliabl
 ```
 concrete-crack-detection/
 │
-├── concrete_pytorch.ipynb    # Core implementation (Data, Model, Training)
-├── Documentation.pdf         # Detailed theory and project report
+├── Positive_Analysis/        # Dataset: Images of cracked surfaces
+├── Negative_Analysis/        # Dataset: Images of non-cracked surfaces
+├── concrete_pytorch.ipynb    # Core implementation (Data loading, CNN Model, Training)
 └── README.md                 # Project documentation
 ```
 
@@ -155,4 +156,3 @@ If you use this dataset in your research, please ensure proper citation of the o
 ⭐ **If this project helped you, please give it a star!** ⭐
 
 </div>
-
