@@ -137,6 +137,11 @@ concrete-crack-detection/
 ├── concrete_pytorch.ipynb    # Core implementation (Data loading, CNN Model, Training)
 └── README.md                 # Project documentation
 ```
+---
+## 📄 License
+
+This project is licensed under the MIT License.
+
 
 ---
 
@@ -149,11 +154,6 @@ If you use this dataset in your research, please ensure proper citation of the o
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 <div align="center">
 
@@ -162,4 +162,5 @@ This project is licensed under the MIT License.
 ⭐ **If this project helped you, please give it a star!** ⭐
 
 </div>
+
 
