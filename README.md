@@ -149,6 +149,12 @@ If you use this dataset in your research, please ensure proper citation of the o
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
 <div align="center">
 
 **Made with ❤️ My First Deep Learning Project**
@@ -156,3 +162,4 @@ If you use this dataset in your research, please ensure proper citation of the o
 ⭐ **If this project helped you, please give it a star!** ⭐
 
 </div>
+
